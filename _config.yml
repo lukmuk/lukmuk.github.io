@@ -21,7 +21,7 @@ repository               : "lukmuk/lukmuk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "hrtem.png" # replace with actual image
   name             : "Lukas Grünewald"
   pronouns         : # example: "she/her"  
   bio              : "Physicist | Electron Microscopist"
