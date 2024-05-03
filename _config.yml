@@ -24,8 +24,8 @@ author:
   avatar           : #"profile.png"
   name             : "Lukas Grünewald"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Physicist | Electron Microscopist"
+  location         : "Germany"
   employer         : "Karlsruhe Institute of Technology (KIT)"
   uri              : # URL
   email            : #"none@example.org" 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : lukas-grünewald-122a93218
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : GruenewaldLukas
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
