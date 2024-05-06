@@ -19,7 +19,7 @@ For this first post, I will add one of my favorite (filtered) HAADF-STEM images 
 
 Can you spot all precipitates? 👻
 
-![GdBCO](/images/hrtem.png)
+![GdBCO](/images/gdbco-haadf.png)
 
 
 
