@@ -30,7 +30,7 @@ Setting up WSL and the required packages
 
 To compile the program on Windows, we use the Windows subsystem for Linux (WSL) with Ubuntu (22.04), i.e., the default Linux distribution for WSL. For Linux users: You can skip to the installation of packages below and use the package manager of your distro (e.g., *apt* for Debian-based distros or *dnf* for Fedora).
 
-WSL can be installed following the guide by Microsoft: https://learn.microsoft.com/en-us/windows/wsl/install
+WSL can be installed following the guide by Microsoft: [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 After installation of WSL and the creation of a user, we can first update the system:
 
@@ -54,7 +54,9 @@ Compiling the *bcf2hdf5* program
 ------
 
 For the next step, I would recommend creating a new folder in your user directory where you want to store the binaries for the *bcf2hdf5* program, e.g., 
-```C:\Users\your-username\my-programs\bcf2hdf5```
+```console
+C:\Users\your-username\my-programs\bcf2hdf5
+```
 on Windows systems. The reason is that a few libraries are linked together, so the compiled *bcf2hdf5* program needs to be recompiled if the folder is moved to another location.
 
 Open a new WSL prompt in the created folder by either (i) clicking into the address bar in the Windows explorer and typing ```wsl``` or by (ii) opening a WSL terminal and using 
