@@ -21,7 +21,7 @@ An electron backscatter pattern (EBSP) forms from the coherently scattered backs
 Many analyses can be conducted from the information-rich dataset. However, one may be limited by the (non state-of-the-art) processing options in the vendor software because the acquired data is often saved in a vendor-specific format.
 In addition, documentation of the processing steps for GUI-based vendor software is not optimal compared to code-based analyses, hindering scientific reproducibility. 
 
-Bruker offers EBSD systems and their EBSD data can be saved as a bcf file, similar to their energy-dispersive x-ray spectroscopy (EDS) data. While for the latter the data can be read using [RosettaSciIO](https://hyperspy.org/rosettasciio/), the EBSD data format is not yet supported. Still, the data (raw EBSPs and some other properties) can be extracted using the *bcf2hdf5* program from the *BCFTools* repository developed by Mike Jackson. 
+Bruker offers EBSD systems and their EBSD data can be saved as a bcf file, similar to their energy-dispersive x-ray spectroscopy (EDS) data. While for the latter the data can be read using [RosettaSciIO](https://hyperspy.org/rosettasciio/), the EBSD data format is not yet supported. Still, the data (raw EBSPs and some other properties) can be extracted using the *bcf2hdf5* program from the [*BCFTools* repository](https://github.com/BlueQuartzSoftware/BCFTools) developed by Mike Jackson. 
 
 This guide shows how to compile and run the current version of *bcf2hdf5* to extract the raw EBSPs from the bcf file and convert them to an hdf5 file. This opens up the possibility to use any image processing library on the EBSPs and perform the pattern indexing with 3rd-party open-source software such as [Kikuchipy](https://kikuchipy.org/en/stable/).
 
@@ -93,7 +93,7 @@ cmake ..
 make
 ```
 
-Wait for the compile process to finish. The binaries are located in the *Bin* directory within the *build* directory. Note that you can copy/move the “bcf2hdf5” binary from there, but do not move the other binaries as the file path is compiled into the *bcf2hdf5* binary.
+Wait for the compile process to finish. The binaries are located in the *Bin* directory within the *build* directory. Note that you can copy/move the *bcf2hdf5* binary from there, but do not move the other binaries as the file path is compiled into the *bcf2hdf5* binary.
 
 Beware: Large file size of the generated hdf5
 ------
