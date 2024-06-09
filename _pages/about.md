@@ -20,7 +20,7 @@ See my work at [Google Scholar](https://scholar.google.de/citations?user=MTCt99k
 
 * February 2024 - Check out the articles by [phys.org](https://phys.org/news/2024-02-real-microscopic-imaging-plasma-treatment.html) and [Nanowerk](https://www.nanowerk.com/nanotechnology-news3/newsid=64748.php) for our recent work about the application of plasma in an SEM published in [Advanced Materials Technologies](https://onlinelibrary.wiley.com/doi/10.1002/admt.202301632).
 
-* December 2023 - Our [front cover](https://pubs.rsc.org/en/content/articlepdf/2023/ma/d3ma90102e) was chosen for the *Materials Advances* journal for our [article]((https://pubs.rsc.org/en/content/articlelanding/2023/ma/d3ma00447c) *Analytical electron microscopy study of the composition of BaHfO\\(_3\\) nanoparticles in REBCO films: the influence of rare-earth ionic radii and REBCO composition*.  
+* December 2023 - Our [front cover](https://pubs.rsc.org/en/content/articlepdf/2023/ma/d3ma90102e) was chosen for the *Materials Advances* journal for our [article](https://pubs.rsc.org/en/content/articlelanding/2023/ma/d3ma00447c) *Analytical electron microscopy study of the composition of BaHfO\\(_3\\) nanoparticles in REBCO films: the influence of rare-earth ionic radii and REBCO composition*.  
   I dove into [Blender](https://www.blender.org/) to generate the cover art.
 
 #### About this page
