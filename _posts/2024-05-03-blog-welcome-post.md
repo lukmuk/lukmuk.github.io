@@ -12,7 +12,7 @@ This is my first blog post! I try to keep adding new ones with interesting topic
 
 I will also use it to display and explain my shared scripts and tools on Github. I try to contribute useful tools for other researchers. 😊
 
-For this first post, I will add one of my favorite (filtered) HAADF-STEM images of a GdBa<p>$\{_2\}$</p>Cu<p>\(_3\)</p>O<p>\(_{7-\delta}\)</p> (GdBCO) thin film acquired on a non-probe-corrected TEM.
+For this first post, I will add one of my favorite (filtered) HAADF-STEM images of a GdBa2Cu3O7 (GdBCO) thin film acquired on a non-probe-corrected TEM.
 
 Can you spot all precipitates? 👻
 
