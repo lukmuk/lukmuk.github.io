@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lukas' Homepage"
+title                    : "Lukas' Science Page"
 title_separator          : "-"
 name                     : &name "Lukas Grünewald"
 description              : &description "Physicist | Electron Microscopist"
@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "hrtem.png" # replace with actual image
   name             : "Lukas Grünewald"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Physicist | Electron Microscopist"
   location         : "Germany"
-  employer         : "KIT"
+  employer         : "KIT Karlsruhe"
   uri              : # URL
   email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.de/citations?hl=de&user=MTCt99kAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5898-0713"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -64,12 +64,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : GruenewaldLukas
+  twitter          : # GruenewaldLukas
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : electronmicroscopist1986
   zhihu            : # URL
 
 

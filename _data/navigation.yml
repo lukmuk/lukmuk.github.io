@@ -1,23 +1,23 @@
 # main links links
 main:
+  - title: "Publications"
+    #url: /publications/
+    url: https://scholar.google.de/citations?user=MTCt99kAAAAJ
+    
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Blog Posts"
     url: /year-archive/
 
 #  - title: "CV"
 #    url: /cv/
-  
-  - title: "Publications"
-    #url: /publications/
-    url: https://scholar.google.de/citations?user=MTCt99kAAAAJ
 
 #  - title: "Talks"
 #    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
     
 #  - title: "Guide"
 #    url: /markdown/
