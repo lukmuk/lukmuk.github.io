@@ -17,6 +17,8 @@ Then, this guide will show how to overlay the diffraction spots onto the experim
 
 ![final-result-indexed-dp](/images/blog/dp_indexing/dp_indexing_final_plain.svg)
 
+Download [example data](/files/dp-indexing-recipro-data.zip) files.
+
 ## Step 1: Inspecting the Diffraction Pattern
 
 First, let's open the `tif` image in [Fiji](https://fiji.sc/) to inspect it. Here, we see that the image is already calibrated in inverse nm and has 512x512 pixels (1). Using ***Image -> Properties...***, we can find the pixel size of 0.0180074 1/nm (2). Here, we assume this calibration is correct. We will need to this value in a moment and leave the window open.
@@ -125,3 +127,6 @@ You can now save this pattern to different formats (`svg`,`pdf`) or export to ra
 In this tutorial we used ReciPro to find a crystal orientation and simulate the diffraction-spot positions. From ReciPro, we can save the simulated positions to a vector graphic file and overlay the simulated spot positions onto the experimental pattern.
 
 Thanks for reading and happy pattern indexing!
+
+Additional credits:   
+Screenshots were made with [Flameshot](https://flameshot.org/).
