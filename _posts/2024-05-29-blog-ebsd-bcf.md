@@ -129,4 +129,4 @@ Going further: Extracting and reshaping the data with Kikuchipy
 ------
 
 The next step is to load, reshape, and finally re-save the data as a new hdf5 file with the help of [Kikuchipy](https://kikuchipy.org/en/stable/) and [h5py](https://www.h5py.org/).
-This will be the topic for another blog post.
+This will be the topic for another blog post, but a notebook is already available [here](https://github.com/lukmuk/ebsd-processing-bruker/tree/main/kikuchipy-bcf2hdf5-converter).
