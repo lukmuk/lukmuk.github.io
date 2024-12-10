@@ -20,7 +20,7 @@ See my work at [Google Scholar](https://scholar.google.de/citations?user=MTCt99k
 
 * December 2024 - We contributed in-depth EBSD and TEM analyses for our [paper](https://doi.org/10.1002/advs.202410771) on 3D-printed ZnO crystals with rotating crystal lattices. The video shows the local background-corrected EBSD patterns and Hough-indexed bands using [kikuchipy](https://kikuchipy.org/en/stable/). The orientation gradually changes and follow the 90°-change in printing direction.
 I presented this work as a poster at the [Microscopy & Microanalysis](https://doi.org/10.1093/mam/ozae044.616) Conference in Cleveland in August 2024.  
-<video width="720" height="180" controls="controls" src="https://github.com/lukmuk/lukmuk.github.io/raw/refs/heads/master/files/Gruenewald_Laser-Printed-ZnO-KikuchiPatterns.mp4"></video>
+    <video width="720" height="180" controls="controls" src="https://github.com/lukmuk/lukmuk.github.io/raw/refs/heads/master/files/Gruenewald_Laser-Printed-ZnO-KikuchiPatterns.mp4"></video>
 
 * November 2024 - A new [blog post](https://lukmuk.github.io//posts/2024/11/blog-index-dp-recipro-inkscape/) about diffraction-pattern indexing with ReciPro and subsequent polishing of the indexed result with inkscape - all in nice vector graphics.
 
