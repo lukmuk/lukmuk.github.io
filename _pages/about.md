@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Lukas Grünewald** and I am a researcher specializing in **electron microscopy**, where I study materials at the micrometer to nanometer scale. I am affiliated with the [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php).
+My name is **Lukas Grünewald** and I am a researcher specializing in **electron microscopy**, where I study biological tissue and materials at the micrometer to nanometer scale. I am affiliated with the [Neuroanatomy department](https://neuroanatomie.uni-freiburg.de/) at the [University of Freiburg](https://uni-freiburg.de/en/).
 
 ## Research
 
-I specialize in analytical electron microscopy (SEM/TEM/FIB) for materials science research and methodology development. Here, I aim to maximize microscope performance and data quality and combine it with state-of-the-art data processing to gain new insights to optimize material performance.  
+I specialize in analytical electron microscopy (SEM/TEM/FIB) for materials science research and methodology development. Currently, I am exploring the field of neuroscience and volume electron microscopy (vEM) for 3D imaging of brain tissue. I aim to maximize microscope performance and data quality and combine it with state-of-the-art data processing to gain new insights into the structre-function properties in biology and materials science.  
 Within my research, I am enthusiastic about open science and the sharing of workflows, code, and raw data to help other researchers and for scientific reproducibility. 
 
 See my work at [Google Scholar](https://scholar.google.de/citations?user=MTCt99kAAAAJ).
 
 ## News
+* January 2025 - I got a new position as a postdoctoral researcher at the [Neuroanatomy department](https://neuroanatomie.uni-freiburg.de/) at the [University of Freiburg](https://uni-freiburg.de/en/). Here I will dive into volume EM imaging and biological research questions concerned with brain tissue. I am looking forward to this exciting new research field and the challenges ahead!
 
 * December 2024 - We contributed in-depth EBSD and TEM analyses for our [paper](https://doi.org/10.1002/advs.202410771) on 3D-printed ZnO crystals with rotating crystal lattices. The video shows the local background-corrected EBSD patterns and Hough-indexed bands using [kikuchipy](https://kikuchipy.org/en/stable/). The orientation gradually changes and follow the 90°-change in printing direction.
 I presented this work as a poster at the [Microscopy & Microanalysis](https://doi.org/10.1093/mam/ozae044.616) Conference in Cleveland in August 2024.  
